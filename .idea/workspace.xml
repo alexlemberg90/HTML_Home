@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452f6a9b-14cf-4fe6-a5f2-fa610cf9fa1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les1/les1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les1/main.css" afterDir="false" />
+    <list default="true" id="452f6a9b-14cf-4fe6-a5f2-fa610cf9fa1d" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/les2/blueblock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/css/blueBox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/css/cards.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les1.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +57,17 @@
       <updated>1657081398237</updated>
       <workItem from="1657081402606" duration="1718000" />
       <workItem from="1657125183873" duration="1421000" />
-      <workItem from="1657180402244" duration="635000" />
+      <workItem from="1657180402244" duration="2877000" />
+      <workItem from="1657278515664" duration="4035000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1657181067171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657181067171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

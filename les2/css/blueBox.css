@@ -1,0 +1,24 @@
+.all{
+    width: 500px;
+    height: 850px;
+}
+.widgets, .big_widgets, .bigger_widgets, .huge_widgets{
+    height: 200px;
+}
+.widgets, .contact{
+    width: 480px;
+    background-color: #305be1;
+    margin: 10px;
+}
+.big_widgets, .bigger_widgets, .huge_widgets{
+    width: 150px;
+    background-color: blue;
+}
+.center{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between
+}
+.contact{
+    height: 450px;
+}
