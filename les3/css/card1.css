@@ -1,0 +1,48 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+.main {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.cart {
+    height: 70%;
+    width: 30%;
+    border: 1px solid rgba(0, 0, 0, 0.33);
+    flex-direction: column;
+    position: relative;
+}
+.circle{
+    border: 1px solid rgba(0, 0, 0, 0.33);
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    font-size: 20px;
+    position: absolute;
+    top: -50px;
+    background: white;
+}
+.text {
+text-align: center;
+}
+.text>p {
+    color: gray;
+}
+.button {
+    border: 1px solid black;
+    height: 40px;
+    width: 70%;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
