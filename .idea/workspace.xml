@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452f6a9b-14cf-4fe6-a5f2-fa610cf9fa1d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/les2/blueblock.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/css/blueBox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/css/cards.css" afterDir="false" />
+    <list default="true" id="452f6a9b-14cf-4fe6-a5f2-fa610cf9fa1d" name="Changes" comment="l3.1">
+      <change afterPath="$PROJECT_DIR$/les3/card1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les3/card2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les3/css/card1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les3/css/card2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Home.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
       </list>
@@ -39,6 +41,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
 }</component>
@@ -58,7 +61,9 @@
       <workItem from="1657081402606" duration="1718000" />
       <workItem from="1657125183873" duration="1421000" />
       <workItem from="1657180402244" duration="2877000" />
-      <workItem from="1657278515664" duration="4035000" />
+      <workItem from="1657278515664" duration="4062000" />
+      <workItem from="1657689437375" duration="305000" />
+      <workItem from="1657689753811" duration="8728000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1657181067171</created>
@@ -67,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657181067171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="l2">
+      <created>1657282569930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657282569930</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +98,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="l2" />
+    <MESSAGE value="l3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="l3.1" />
   </component>
 </project>
