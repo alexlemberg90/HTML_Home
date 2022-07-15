@@ -1,0 +1,30 @@
+.header {
+    width: 100%;
+    height: 200px;
+    background: silver;
+}
+.mine {
+    display: flex;
+}
+.big {
+    width: 70%;
+    height: 500px;
+    background: gray;
+}
+.small {
+    width: 30%;
+    height: 500px;
+    background: darkgray;
+}
+@media screen and (max-width: 900px){
+    .mine {
+        display: block;
+    }
+    .big {
+        width: 100%;
+    }
+    .small {
+        width: 100%;
+        height: 200px;
+    }
+}

@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452f6a9b-14cf-4fe6-a5f2-fa610cf9fa1d" name="Changes" comment="l3.1">
+    <list default="true" id="452f6a9b-14cf-4fe6-a5f2-fa610cf9fa1d" name="Changes" comment="l3.2">
+      <change afterPath="$PROJECT_DIR$/les4/blocks1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les4/blocks2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les4/css/blocks1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les4/css/blocks2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les4/css/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les3/card1.html" beforeDir="false" afterPath="$PROJECT_DIR$/les3/card1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les3/css/card1.css" beforeDir="false" afterPath="$PROJECT_DIR$/les3/css/card1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,9 @@
       <workItem from="1657180402244" duration="2877000" />
       <workItem from="1657278515664" duration="4062000" />
       <workItem from="1657689437375" duration="305000" />
-      <workItem from="1657689753811" duration="15588000" />
+      <workItem from="1657689753811" duration="15641000" />
+      <workItem from="1657715939420" duration="619000" />
+      <workItem from="1657883653678" duration="2723000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1657181067171</created>
@@ -83,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657699086552</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="l3.2">
+      <created>1657706454918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657706454918</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +116,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="l2" />
     <MESSAGE value="l3.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="l3.1" />
+    <MESSAGE value="l3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="l3.2" />
   </component>
 </project>
